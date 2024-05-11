@@ -5,7 +5,7 @@
 <div>
 <h2>💫 | Olá, seja-bem vindo(a) ao meu perfil!</h2>
 
-🔭 | Eu atualmente estou iniciando no Curso de Informática<br>🧶 | Conta destinada especialmente para os conteúdos do curso<br>🖌️ | Personalização feita apenas como exemplo (Aula invertida)<br>🖥️ | Estudando Linguagens de programação, Desenvolvimento Web, Banco de Dados e Design Digital<br>💬 | Pergunte-me sobre qualquer coisa, menos JavaScript!<br>
+🔭 | Eu atualmente estou iniciando no Curso de Informática<br>🧶 | Conta destinada especialmente para os conteúdos do curso<br>🖌️ | Personalização feita apenas como exemplo (Aula invertida)<br>
 </div>
 <br>
 <div> 
