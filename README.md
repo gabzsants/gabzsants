@@ -18,10 +18,7 @@
 <br>
 
 <div> 
-<h2>📊 | Minhas contribuições:</h2>
-
-
-![](https://github-readme-stats.vercel.app/api?username=gabzsants&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<h2>📊 | Contribuições</h2>
 
 <img align="right" width="250px" style="margin-top:-20px" src="https://custom-doodle.com/wp-content/uploads/doodle/demon-slayer-running-nezuko-pixel/demon-slayer-running-nezuko-pixel-doodle.gif">
 
@@ -32,7 +29,7 @@
 
 <div>
   
-<h2>🌐 | Minhas redes sociais:</h2>
+<h2>🌐 | Redes sociais:</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabriela35426@fiec.edu.br)](mailto:gabriela35426@fiec.edu.br) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/@gabis.me)](https://discord.com/@gabis.me) 
 
